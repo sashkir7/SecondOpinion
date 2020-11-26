@@ -1,0 +1,11 @@
+git_import(
+  url: 'git@projects.ronasit.com:ronas-it/ios/fastlane.git',
+  import: ->(path) { import(path) },
+  branch: 'apetrosyan/ci_test'
+)
+
+fastlane_require 'dotenv'
+
+before_all do
+  Dotenv.overload '.env.secret'
+end

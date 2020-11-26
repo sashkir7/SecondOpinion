@@ -1,0 +1,11 @@
+{% include 'header' %}
+
+struct {{ module_info.name }}ViewModel: Equatable {
+
+    init(state: {{ module_info.name }}State) {
+    }
+
+    static func == (lhs: {{ module_info.name }}ViewModel, rhs: {{ module_info.name }}ViewModel) -> Bool {
+        return false
+    }
+}

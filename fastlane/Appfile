@@ -1,0 +1,7 @@
+apple_id "dfrishbuter@ronasit.com"
+team_name "Ronas IT OU"
+team_id "W78QWT9EXA"
+
+# If `itunes_connect_id` is nil then `apple_id` will be used. Pilot works so.
+# itunes_connect_id "client@ronasit.com"
+# itc_team_name "O4S Client"

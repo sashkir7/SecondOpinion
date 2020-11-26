@@ -1,0 +1,6 @@
+framework module Pods_SecondOpinion {
+  umbrella header "Pods-SecondOpinion-umbrella.h"
+
+  export *
+  module * { export * }
+}

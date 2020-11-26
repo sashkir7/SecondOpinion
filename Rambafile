@@ -1,0 +1,22 @@
+### Headers settings
+company: Ronas IT
+
+### Xcode project settings
+project_name: SecondOpinion
+xcodeproj_path: SecondOpinion.xcodeproj
+
+### Code generation settings section
+# The main project target name
+project_target: SecondOpinion
+
+### Dependencies settings section
+podfile_path: Podfile
+
+### Templates
+catalogs:
+- 'git@projects.ronasit.com:ronas-it/ios/generamba-templates.git'
+templates:
+- {name: rns_swift_mviper_di_module}
+- {name: rns_swift_coordinator}
+- {name: rns_swift_service}
+

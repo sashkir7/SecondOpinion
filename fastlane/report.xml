@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites>
+  <testsuite name="fastlane.lanes">
+    
+    
+    
+      
+      <testcase classname="fastlane.lanes" name="00: default_platform" time="0.000229">
+        
+      </testcase>
+    
+      
+      <testcase classname="fastlane.lanes" name="01: git_import" time="6.285811">
+        
+      </testcase>
+    
+      
+      <testcase classname="fastlane.lanes" name="02: ensure_git_status_clean" time="0.050129">
+        
+      </testcase>
+    
+      
+      <testcase classname="fastlane.lanes" name="03: search_gitlab_branches" time="2.112936">
+        
+      </testcase>
+    
+      
+      <testcase classname="fastlane.lanes" name="04: Switch to rns_start_feature_branch_and_update_issue lane" time="0.000603">
+        
+      </testcase>
+    
+      
+      <testcase classname="fastlane.lanes" name="05: fetch_current_gitlab_user" time="1.811762">
+        
+      </testcase>
+    
+      
+      <testcase classname="fastlane.lanes" name="06: prompt" time="6.283395">
+        
+      </testcase>
+    
+      
+      <testcase classname="fastlane.lanes" name="07: Switch to rns_start_feature_branch lane" time="0.00037">
+        
+      </testcase>
+    
+      
+      <testcase classname="fastlane.lanes" name="08: git branch" time="0.034807">
+        
+      </testcase>
+    
+      
+      <testcase classname="fastlane.lanes" name="09: git ls-remote --heads" time="5.450827">
+        
+      </testcase>
+    
+      
+      <testcase classname="fastlane.lanes" name="10: git checkout develop" time="0.123789">
+        
+      </testcase>
+    
+      
+      <testcase classname="fastlane.lanes" name="11: git checkout -b feature/23-upload-files" time="0.011091">
+        
+      </testcase>
+    
+      
+      <testcase classname="fastlane.lanes" name="12: update_gitlab_issue" time="2.730297">
+        
+      </testcase>
+    
+  </testsuite>
+</testsuites>

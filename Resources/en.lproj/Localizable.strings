@@ -1,0 +1,98 @@
+//
+//  Created by Dmitry Surkov on 05/10/2020
+//  Copyright © 2020 Ronas IT. All rights reserved.
+//
+
+// Common
+"ok" = "Ok";
+"cancel" = "Cancel";
+"home" = "Home";
+"settings" = "Settings";
+"next" = "Next";
+"skip" = "Skip";
+"add_file" = "Add File";
+"confirm" = "Confirm";
+
+// Alerts
+"alert.recovery_link_sent.title" = "Recovery link has been sent";
+"alert.recovery_link_sent.message" = "We sent a recovery link to: %@";
+"alert.recovery_link_sent.action.check_inbox" = "Check Inbox";
+"alert.recovery_link_sent.action.log_In" = "Log In";
+
+"alert.restore_password_success.title" = "Success";
+"alert.restore_password_success.message" = "A new password was created successfully";
+"alert.restore_password_success.action.continue" = "Continue";
+
+// Autorization
+"sign_up" = "Sign Up";
+"log_in" = "Log In";
+
+// Errors
+"error.unknown" = "Something went wrong";
+"error.server_error" = "Server error occurred. Please try again later";
+"error.authorizationFailed" = "Authorization failed";
+"error.invalid_image" = "Invalid image";
+
+// Welcome Module
+"welcome_module.main_title" = "Welcome to\nSecond Opinion";
+"welcome_module.subtitle" = "Trust doctors, not the Internet";
+
+// SignUp Module
+"sign_up.main_title" = "Let’s Get Started";
+"sign_up.agreement_title" = "By continuing, you agree to Secon Opinion’s";
+"sign_up.action.create_account" = "Create Account";
+"sign_up.action.terms_and_condition" = "Terms & Conditions";
+
+// NewConsultation Module
+"new_consultation.add_consultation" = "Add Consultation";
+"new_consultation.consultation_name.title" = "Consultation Name";
+"new_consultation.consultation_name.placeholder" = "What's bothering you";
+"new_consultation.description.title" = "Description";
+"new_consultation.description.placeholder" = "Describe in detail what is bothering you";
+"new_consultation.choose_tags.title" = "Choose Tags";
+"new_consultation.upload_files.title" = "Upload Files";
+"new_consultation.upload_files.subtitle" = "You can upload your \ndocuments later";
+
+// PersonalInformationEditing
+"personal_information_editing.first_name_input.title" = "First name";
+"personal_information_editing.first_name_input.placeholder" = "Enter your first name";
+"personal_information_editing.last_name_input.title" = "Last name";
+"personal_information_editing.last_name_input.placeholder" = "Enter your last name";
+
+// EmailEditing
+"email_editing.email_input.title" = "Email";
+"email_editing.email_input.placeholder" = "Enter email address";
+
+// PasswordEditing
+"password_editing.password_input.title" = "Password";
+"password_editing.password_enter.placholder" = "Enter password";
+"password_editing.password_create.placholder" = "Create password";
+"password_editing.password_reset.title" = "Reset Password";
+"password_editing.password_reset.detail" = "We will send information about password recovery to the specified email address";
+"password_editing.password_forgot.title" = "Forgot your password?";
+
+// Login Screen
+"login_module.login_title" = "Login to\nYour Account";
+
+// Password Creation
+"password_creation.main_title" = "Create Password";
+
+"password_creation.create_new_password_input.title" = "New Password";
+"password_creation.create_new_password_enter.placeholder" = "Create new password";
+
+"password_creation.confirm_new_password_input.title" = "Confirm New Password";
+"password_creation.confirm_new_password_enter.placeholder" = "Confirm new password";
+
+"password_creation.action.create_new_password" = "Create New Password";
+
+// Image Picker
+"image_picker.action_sheet.camera" = "Take a photo";
+"image_picker.action_sheet.photo_library" = "Select a photo";
+
+"image_picker.action_sheet.camera_change" = "Take a new photo";
+"image_picker.action_sheet.photo_library_change" = "Select a new photo";
+"image_picker.action_sheet.remove_photo" = "Remove photo";
+
+"image_picker.open_settings" = "Open Settings";
+"image_picker.no_photo_library_access" = "Please allow photo library usage";
+"image_picker.no_camera_access" = "Please allow camera usage";
